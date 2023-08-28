@@ -2,9 +2,9 @@
 
 This is a starter template for Next.js projects. It includes the following:
 - [Tailwind CSS](https://tailwindcss.com/)
-- [React GTM Module](https://www.npmjs.com/package/react-gtm-module)
 
 Table of Contents:
+- [Rishit Patel's Default Next.js Starter](#rishit-patels-default-nextjs-starter)
   - [⚡️ Quick Start](#️-quick-start)
   - [🚀 Getting Started](#-getting-started)
   - [📦 Deployment](#-deployment)
@@ -58,4 +58,3 @@ If you want to contact me you can reach me at [rishitpatel.com/contact](https://
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - learn about Tailwind CSS features and API.
-- [React GTM Module Documentation](https://www.npmjs.com/package/react-gtm-module) - learn about React GTM Module features and API.
